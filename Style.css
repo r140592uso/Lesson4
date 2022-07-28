@@ -1,0 +1,125 @@
+/*section1 styles*/
+
+.kartuli-relatiuri {    
+    vertical-align: middle;
+    color: #5863F8;
+    font-size: 14px;
+    font-family: 'ALK Rex Bold';
+}
+.latinuri-relatiuri {
+    vertical-align: top;
+    color: #000000;
+    font-size: 42px;
+    height: 115px;
+    width: 465px;
+    margin: 0 0 50px 0;
+    font-family: 'Roboto';
+}
+.section1{
+    width: 1088px;
+    height: 372px;
+    margin: 82px auto 102px auto;
+}
+.section1left {
+    width: 536px;
+    height: 190px;
+    display: inline-block;
+    background-color: #F8F8F8;
+    margin: 0 8px 0 0;
+}
+.section1right {
+    width: 536px;
+    height: 190px;
+    display: inline-block;
+    background-color: #BE2B2B;
+}
+.s1image {
+    display: inline-block;
+    width: 168px;
+    height: 190px;
+    margin: 0 16px 0 0;
+}
+.section1images {
+    display: inline-block;
+    height: 190px;
+    width: 168px;
+}
+.s1text {
+    display: inline-block;
+    width: 352px;
+    height: 190px;
+    vertical-align: top;
+    margin: 37px 0 0 0;
+}
+.section1header4 {
+    vertical-align: top;
+    color: #5863F8;
+    font-size: 14px;
+    }
+.section1header3 {
+    vertical-align: top;    
+    margin: 0 0 10px 0;  
+}
+.psec1 {
+    vertical-align: top;
+    color: #B1B1B1;
+}
+/*section2 styles*/
+.kartuli-absoluturi {    
+    vertical-align: middle;
+    color: #5863F8;
+    font-size: 14px;
+    font-family: "BPG Nino Mtavruli Bold", sans-serif;
+}
+.latinuri-absoluturi {
+    vertical-align: top;
+    color: #000000;
+    font-size: 42px;
+    height: 115px;
+    width: 465px;
+    margin: 0 0 65px 0;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+.section2{
+    width: 1088px;
+    height: 376px;
+    margin: 0 auto;    
+}
+.section2left, .section2right, .section2middle {
+    width: 352px;
+    height: 360px;
+    display: inline-block;
+    background-color: #F8F8F8;
+    vertical-align: top;
+    text-align: center;
+}
+.section2middle {
+    margin: 0 16px;
+}
+.section2text{
+    width: 352px;
+    height: 148px;
+    display: inline-block;
+    background-color: #F8F8F8;
+    vertical-align: top;
+    text-align: center;
+    }
+.section2images {
+    height: 212px;
+    width: 352px;
+}
+.section2header4 {
+    color: #5863F8;
+    font-size: 14px;
+    margin: 23px 0 5px 0;
+}
+.section2header3 {
+    color: #000000;    
+    margin: 0 0 10px 0;
+    font-size: 18px;    
+}
+.psec2 {
+    color: #B1B1B1;
+    width: 280px;
+    margin: 0 auto;
+    }
